@@ -1,2 +1,5 @@
 # hello-world
-getting started
+Just getting started with github. Exciting times here at SGaraycoa HQ...
+
+
+
